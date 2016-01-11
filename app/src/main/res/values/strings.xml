@@ -2,5 +2,6 @@
     <string name="app_name">Asimov</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="hello_asimov">Hello Asimovx!</string>
     <string name="action_settings">Settings</string>
 </resources>
