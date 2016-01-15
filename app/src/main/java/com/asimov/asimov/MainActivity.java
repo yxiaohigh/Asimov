@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
      */
     private void init() {
 
+        int s=2;
         //aaaa
     }
 
